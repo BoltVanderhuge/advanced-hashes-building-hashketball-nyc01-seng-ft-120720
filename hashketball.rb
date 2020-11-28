@@ -17,6 +17,7 @@ def game_hash
         blocks: 1,
         slam_dunks: 1
       },
+      binding.pry
       {
         player_name: "Reggie Evans"
         number: 30,
@@ -64,5 +65,5 @@ def game_hash
     ]
     }  
   }
-  binding.pry
+  
 end
