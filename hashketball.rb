@@ -3,7 +3,7 @@ require 'pry'
 def game_hash 
   {
     team_name = "Brooklyn Nets"
-    colors = 
+    colors = ["Black", "White"]
     
   }
   binding.pry
