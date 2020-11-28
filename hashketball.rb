@@ -3,9 +3,9 @@ require 'pry'
 def game_hash 
   {
     home:{
-    team_name = "Brooklyn Nets",
-    colors = ["Black", "White"],
-    players =[
+      team_name = "Brooklyn Nets",
+      colors = ["Black", "White"],
+      players =[
       {
         player_name = "Alan Anderson",
         number = 0,
@@ -50,7 +50,7 @@ def game_hash
         blocks = 8,
         slam_dunks = 5
       },
-        {
+      {
         player_name = "Jason Terry",
         number = 31,
         shoe = 15,
